@@ -1,5 +1,3 @@
 requests
-os
-os.path
-shutil
 yadisk
+tqdm
